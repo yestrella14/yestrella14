@@ -2,15 +2,15 @@
 
 <!--
 **yestrella14/yestrella14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### My name is Yeraldina and I am a Data Science student at Bloomtech
+
+- 🔭 I’m currently working on ... Exploring congenital heart disease data
+- 🌱 I’m currently learning ... Shell
+- 👯 I’m looking to collaborate on ... Heart Disease projects
+- 🤔 I’m looking for help with ... AWS
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: Yeraldina.org
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: ... I love Bagels
+
