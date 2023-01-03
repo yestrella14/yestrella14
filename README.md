@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on ... Heart Disease projects
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: Yeraldina.org
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yeraldinaestrella/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ... I love Bagels
 
